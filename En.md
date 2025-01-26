@@ -1,4 +1,4 @@
- @[简体中文](https://github.com/Xu-Zhehan/Minesweeper.py/blob/main/Zh.md) | \>English<
+ [简体中文](https://github.com/Xu-Zhehan/Minesweeper.py/blob/main/Zh.md) | \>English<
 
 This is a game which was made with Python by me.Just for a joy :]
 
